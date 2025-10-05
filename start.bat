@@ -1,0 +1,2 @@
+python aroma.py
+pause
